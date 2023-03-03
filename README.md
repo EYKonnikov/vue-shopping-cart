@@ -1,1 +1,1 @@
-# vue-shopping-cart
+# vue-shopping-cart with Vuex state management
