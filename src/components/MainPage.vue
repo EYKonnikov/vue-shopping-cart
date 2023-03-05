@@ -1,11 +1,13 @@
 <template>
-	<div>I am connected!</div>
+	<div>Hello main page</div>
 </template>
+
 <script>
 	export default {
-		app: "HelloWorld"
+		name: "MainPage"
 	}
 </script>
-<style scoped>
+
+<style>
 	
 </style>
